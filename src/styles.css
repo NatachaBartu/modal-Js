@@ -100,7 +100,3 @@ button:hover {
 .modal-outer img {
   width: 100%;
 }
-
-.modal-inner.card.data-description {
-  text-align: center;
-}
